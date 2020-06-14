@@ -3,9 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Track.Guide Help
+track.guide Help
 ==================================================
-This the help documnetation for the track.guide research and planning tool
+This is the help documentation for the track.guide research and planning tool available at http://au.track.guide
 
 Contents:
 
