@@ -2,6 +2,6 @@ Authors
 -------
 
 * Eric (New contributor)
-* Anthony 
+* Greg 
 
 
